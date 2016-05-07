@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="qotd.QuoteSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-05-07T01:03:30" hostname="CSCUSAAH778736" time="0.517">
+  <properties/>
+  <testcase name="test for valid quote text" classname="qotd.QuoteSpec" time="0.517"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
