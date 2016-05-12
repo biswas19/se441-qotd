@@ -26,6 +26,9 @@ apply plugin:"org.grails.grails-web"
 apply plugin:"org.grails.grails-gsp"
 apply plugin:"asset-pipeline"
 apply plugin:"org.sonarqube"
+compileGroovy {
+	targetCompatibility = '1.7'
+}
 
 ext {
     grailsVersion = project.grailsVersion
